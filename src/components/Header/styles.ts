@@ -25,6 +25,11 @@ export const InputText = styled.input`
   padding: 0 10px;
   min-width: 200px;
   font-size: 28px;
+  &::placeholder {
+    color: #ccc;
+    font-size: 18px;
+    align-items: center;
+  }
 `;
 export const SearchBar = styled.div`
   display: flex;

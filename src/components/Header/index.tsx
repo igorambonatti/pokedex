@@ -15,7 +15,7 @@ const Header: React.FC<ControlHead> = ({ onSubmitFilter }) => {
       <HeaderContent>
         <img src={Logo} alt="" height="70" />
         <SearchBar>
-          <InputText id="search" name="search" />
+          <InputText id="search" name="search" placeholder="Name or Number" />
           <Button type="submit" onClick={onSubmitFilter}>
             <FaSearch size={25} />
           </Button>
