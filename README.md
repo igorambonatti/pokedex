@@ -2,7 +2,7 @@
 
 ### Desafio | Frontend Developer
 
-<!-- > **Link da aplicação no Netlify:** https://confident-nobel-0ee512.netlify.com/. -->
+> **Link da aplicação no Netlify:** https://priceless-jackson-766a10.netlify.app/.
 
 ### Resumo:
 
